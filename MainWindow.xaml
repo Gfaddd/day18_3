@@ -11,7 +11,7 @@
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding Id}" Header="Id" Width="Auto"/>
                 <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="*"/>
-                <DataGridTextColumn Binding="{Binding CountOfStars}" Header="CountOfStars" Width="Auto"/>
+                <DataGridTextColumn Binding="{Binding CountOfStars}" Header="qweqwewqe" Width="Auto"/>
                 
             </DataGrid.Columns>
         </DataGrid>
