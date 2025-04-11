@@ -32,6 +32,7 @@ namespace day18_3
 			CurrentHotels = JsonConvert.DeserializeObject<List<Hotel>>(response);
 			DataContext = this;
 			//comment
+
 		}
 	}
 }
