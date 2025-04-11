@@ -33,6 +33,7 @@ namespace day18_3
 			DataContext = this;
 			//comment
 
+
 		}
 	}
 }
